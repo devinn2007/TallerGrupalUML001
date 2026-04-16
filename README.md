@@ -55,3 +55,13 @@ Acciones:
 • Registrar asistencia
 <img width="572" height="378" alt="image" src="https://github.com/user-attachments/assets/d2d393c9-2916-4cbf-9f6b-c971fb225817" />
 
+10. Sistema de Turismo
+Contexto: App para reservar tours.
+Tarea:
+• Relacionar con pagos
+• Incluir confirmaciones
+Acciones:
+• Buscar destinos
+• Reservar tour
+• Pagar
+<img width="1059" height="670" alt="image" src="https://github.com/user-attachments/assets/1a346fb1-f493-4a2c-94ce-e98668cceb7b" />
