@@ -44,6 +44,7 @@ Acciones:
 •	Crear evento 
 •	Comprar ticket
 <img width="572" height="378" alt="image" src="https://github.com/user-attachments/assets/fbea2cb6-1caf-4650-9c83-3e521287c47d" />
+
 9. Sistema de Gimnasio
 Contexto: Control de usuarios y rutinas.
 Tarea:
