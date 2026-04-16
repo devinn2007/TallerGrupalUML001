@@ -13,6 +13,8 @@ Acciones:
 • Registrar usuario
 Sistema de Tienda Online
 Contexto:Los usuarios pueden comprar productos en línea.
+<img width="500" height="241" alt="image" src="https://github.com/user-attachments/assets/c3e01a50-b522-4f24-92f1-566497923eac" />
+
 
 
 Tareea:
@@ -22,10 +24,10 @@ Acciones:
 • Agregar al carrito
 • Pagar
 • Aplicar descuento
+<img width="497" height="278" alt="image" src="https://github.com/user-attachments/assets/cdc95861-8fe6-4b7a-9c4e-4021900615c0" />
+
 Sistema de Chat
 Contexto:Aplicación tipo WhatsApp.
-
-
 Tarea:
 • Diseñar el diagrama completo
 • Incluir notificaciones
@@ -33,6 +35,7 @@ Acciones:
 • Enviar mensaje
 • Recibir mensaje
 • Iniciar sesión
+<img width="494" height="285" alt="image" src="https://github.com/user-attachments/assets/c0a143ae-5464-4fc1-8a8b-d983b77ae575" />
 
 
 4. Sistema de Reservas de Hotel
