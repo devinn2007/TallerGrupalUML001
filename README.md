@@ -68,6 +68,17 @@ Acciones:
 • Validar PIN
 <img width="665" height="509" alt="image" src="https://github.com/user-attachments/assets/1ec18f28-0a30-471b-b1ed-62b66af232b5" />
 
+7. Sistema de Delivery
+Contexto: App para pedir comida.
+Tarea:
+• Incluir múltiples actores
+• Representar flujo completo
+Acciones:
+• Cliente
+• Repartidor
+• Restaurante
+<img width="450" height="396" alt="image" src="https://github.com/user-attachments/assets/13aa4ced-75d8-47e7-9d9c-4ea033acc2aa" />
+
 
 8. Sistema de Gestión de Eventos
 Contexto: Permite crear y reservar eventos.
