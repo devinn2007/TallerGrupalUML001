@@ -22,3 +22,13 @@ Acciones:
 • Ver calificaciones
 <img width="729" height="526" alt="image" src="https://github.com/user-attachments/assets/fc754a06-1fc7-435e-abf3-030337c2db10" />
 
+8. Sistema de Gestión de Eventos
+Contexto: Permite crear y reservar eventos.
+Tarea:
+•	Crear relaciones <<include>> 
+•	Modelar compra de entradas 
+Acciones:
+•	Crear evento 
+•	Comprar ticket
+<img width="572" height="378" alt="image" src="https://github.com/user-attachments/assets/fbea2cb6-1caf-4650-9c83-3e521287c47d" />
+
