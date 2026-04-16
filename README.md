@@ -64,4 +64,5 @@ Acciones:
 • Buscar destinos
 • Reservar tour
 • Pagar
-<img width="1059" height="670" alt="image" src="https://github.com/user-attachments/assets/1a346fb1-f493-4a2c-94ce-e98668cceb7b" />
+<img width="992" height="679" alt="image" src="https://github.com/user-attachments/assets/ff29e3a6-04cc-4381-b05e-6e49c55efd3e" />
+
