@@ -1,6 +1,40 @@
 # TallerGrupalUML001
 INTEGRANTES: DANIELA JAYA; RENATA REYES; DEVIN CHAMBA
 
+1. Sistema de Biblioteca
+Contexto: Un sistema permite gestionar préstamos de libros.
+Tarea:
+• Identificar actores
+• Definir al menos 5 casos de uso
+• Incluir un <<include>>
+Acciones:
+• Prestar libro
+• Devolver libro
+• Registrar usuario
+Sistema de Tienda Online
+Contexto:Los usuarios pueden comprar productos en línea.
+
+
+Tareea:
+• Modelar el proceso de compra
+• Incluir un <<extend>>
+Acciones:
+• Agregar al carrito
+• Pagar
+• Aplicar descuento
+Sistema de Chat
+Contexto:Aplicación tipo WhatsApp.
+
+
+Tarea:
+• Diseñar el diagrama completo
+• Incluir notificaciones
+Acciones:
+• Enviar mensaje
+• Recibir mensaje
+• Iniciar sesión
+
+
 4. Sistema de Reservas de Hotel
 Contexto:Permite reservar habitaciones.
 Tarea:
